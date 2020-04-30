@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Unit Test Suite]">
+  <test thread-count="5" verbose="0" name="Login Page Validations(failed)">
+    <classes>
+      <class name="com.SIB.App.SanityTestCases.Declare_A_Disaster">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="declareADisaster"/>
+          <include name="initializePageObjects"/>
+        </methods>
+      </class> <!-- com.SIB.App.SanityTestCases.Declare_A_Disaster -->
+    </classes>
+  </test> <!-- Login Page Validations(failed) -->
+</suite> <!-- Failed suite [Unit Test Suite] -->

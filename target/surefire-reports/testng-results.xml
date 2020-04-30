@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Unit Test Suite" duration-ms="46926" started-at="2020-04-26T12:37:27 IST" finished-at="2020-04-26T12:38:14 IST">
+    <groups>
+    </groups>
+    <test name="Login Page Validations" duration-ms="46926" started-at="2020-04-26T12:37:27 IST" finished-at="2020-04-26T12:38:14 IST">
+      <class name="com.SIB.App.SanityTestCases.Declare_A_Disaster">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.SIB.App.SanityTestCases.Declare_A_Disaster@5bfbf16f]" name="beforeTest" is-config="true" duration-ms="34532" started-at="2020-04-26T12:37:27 IST" finished-at="2020-04-26T12:38:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="initializePageObjects()[pri:0, instance:com.SIB.App.SanityTestCases.Declare_A_Disaster@5bfbf16f]" name="initializePageObjects" is-config="true" duration-ms="617" started-at="2020-04-26T12:38:02 IST" finished-at="2020-04-26T12:38:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method status="PASS" signature="declareADisaster()[pri:0, instance:com.SIB.App.SanityTestCases.Declare_A_Disaster@5bfbf16f]" name="declareADisaster" duration-ms="11680" started-at="2020-04-26T12:38:02 IST" finished-at="2020-04-26T12:38:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- declareADisaster -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.SIB.App.SanityTestCases.Declare_A_Disaster@5bfbf16f]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-04-26T12:38:14 IST" finished-at="2020-04-26T12:38:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.SIB.App.SanityTestCases.Declare_A_Disaster -->
+    </test> <!-- Login Page Validations -->
+  </suite> <!-- Unit Test Suite -->
+</testng-results>
